@@ -1,0 +1,33 @@
+UGC visits to check:
+Is department conforming to the OBE model?
+
+Problem.add: there is noDoc for overall performance of department
+current: roughly skim through EACH course's assessment report
+soln:?
+
+rich.Add process: physically visit kore, enter room with documents. View the documents one by one.
+problem: analysing overall department perf is highly inefficient
+soln: login and input uni(semester range)-> performance summary. Summary will be created based on PLO achievement. (graphs, bar charts, pie charts)
+
+rich.Add: review process for both 
+
+current:
+For faculty to assess student perf:
+Ask department to send marksheet for each course Madiha ever enrolled in. 
+For each OBE document, find Madiha's ID and find Inefficient.
+
+Difference: Faculty and Head and registrar office might be interested in individual student's performance. UGC or board of trustees is usually only interested in just the department or a course at the most.
+
+
+
+6EA. edit: "7. Design course assessment report..." will not be in the mapping. Add to "Produce OBE"
+6EA. add: the physical visit for hardcopy thing
+bpmn.add: the physical visit for the hardcopy thing ("visit uni" er daan pashe)
+6EA. add: "Request to view records" should be for all use cases
+
+Problem analysis
+
+Instead of Leadership team, say "university officials". (Must note: usually the leadership team)
+
+prob.edit (View records): add(student), segregate(faculty)
+
